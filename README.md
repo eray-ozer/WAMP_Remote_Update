@@ -2,6 +2,8 @@
 Remote Connection configuration for Wamp Server 3 and upper versions.
 This configurations includes apache and phpmyadmin configurations.
 
+# Look README with RAW Mode !!
+
 # Change this section in C:\wamp64\bin\apache\apache2.4.25\conf\extra\httpd-vhosts.conf
 
 <Directory  "c:/wamp64/www/">
