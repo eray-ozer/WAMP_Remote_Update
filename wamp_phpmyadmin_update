@@ -1,0 +1,7 @@
+Create new phpmyadmin location in "apps" folder
+
+Copy new phpmyadmin files
+
+Copy config.inc.php file from previous phpmyadmin installation to new phpmyadmin
+
+Change location values at "alias/phpmyadmin.conf"
