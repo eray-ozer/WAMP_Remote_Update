@@ -1,6 +1,6 @@
 # WAMP_Remote_Update
-Remote connection and manual update instruction for WAMP Server 3.0.6+
-For proper readme style please enable raw mode
+//Remote connection and manual update instruction for WAMP Server 3.0.6+
+//For proper readme style please enable raw mode
 
 # Change this section in C:\wamp64\bin\apache\apache2.4.25\conf\extra\httpd-vhosts.conf
 
