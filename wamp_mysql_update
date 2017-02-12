@@ -1,0 +1,17 @@
+Stop all wamp services
+
+Create new folder for your new mysql version
+
+Copy all new mysql files to new folder
+
+Copy "data" folder and "wampserver.conf" file from previous mysql version
+
+Right click Wamp Manager and refrest it
+
+After this process you can see new mysql version in "MySQL/Version" tab
+
+Copy "my.ini" file from previous mysql version
+
+Change folder locations for new one
+
+Refresh Wamp Manager and Restart All Services
