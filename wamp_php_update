@@ -1,0 +1,19 @@
+Copy all PHP files to proper location
+You have to choice "Thread Safety Enable" version of PHP
+
+Copy this files and folder to new PHP location
+	- php.ini
+	- phpForApache.ini
+	- wampserver
+	- zend_ext
+	
+Change "extension_dir" locations in "php.ini" and "phpForApache.ini" to new location
+
+Download new php_xdebud.dll file for your new php version
+
+Copy it to zend_ext folder
+
+Change "php_xdebud.dll" file with the new one.
+You can download .dll files in here: https://xdebug.org/files/
+
+Restart wamp and select your new php version
